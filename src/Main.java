@@ -1,6 +1,9 @@
 import java.math.BigInteger;
 
 public class Main {
+    /*
+        Implementación del método principal de ejecución del programa
+     */
     public static void main(String[] args) throws InterruptedException {
         BigInteger result[] = new BigInteger[2];
         long startTime = System.currentTimeMillis();
